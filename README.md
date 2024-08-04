@@ -1,4 +1,4 @@
-# Image Captioning with Encoder-Decoder Model
+# Image Captioning with Encoder-Decoder(LSTM) Model
 
 This project implements an image captioning system using a Convolutional Neural Network (CNN) as an encoder and a Recurrent Neural Network (RNN) as a decoder. The system generates captions for images by encoding the visual features using a CNN and decoding them into text using an RNN.
 
